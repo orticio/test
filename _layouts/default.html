@@ -15,7 +15,10 @@
   <body>
     <div class="wrapper">
       <header>
-         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        .title-div {
+          margin-bottom:-10px;
+         }
+         <div class="title-div"><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></div>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -25,7 +28,7 @@
         <p>
         <p>this site is under construction.</p>
         <p>
-        <a href="http://kiddlab.com">google scholar</a><p><small> x </small></p><a href="mailto:orticio@berkeley.edu">email me</a>
+        <p><a href="http://kiddlab.com">google scholar</a><small> x </small><a href="mailto:orticio@berkeley.edu">email me</a></p>
       </header>
       <section>
 
