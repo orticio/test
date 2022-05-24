@@ -8,4 +8,5 @@ i study belief formation across development. in particular, i'm interested in ho
 
 ### conference proceedings
 **Orticio, E.**, Martí, L., & Kidd, C. (2021). Beliefs are most swayed by social prevalence under uncertainty. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://escholarship.org/content/qt7sb1h1fp/qt7sb1h1fp.pdf)].
+
 **Orticio, E.**, & Christie, S. (2020). Object bias disrupts rule-based generalization in adults across domains. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://www.cognitivesciencesociety.org/cogsci20/papers/0148/0148.pdf)].
