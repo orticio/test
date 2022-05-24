@@ -15,26 +15,17 @@
   <body>
     <div class="wrapper">
       <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></span></h1>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="evan orticio" />
         {% endif %}
-        <style>
-          h1 {
-          line-height: 34%;
-          color: #000;
-          }
-          h1 span {
-          line-height:34%;
-          background-color: #fff;
-          }
-        </style>
-        <div style="margin-top:-28px;"><h1><span><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></span></h1></div>
         <p>
         <p>i'm a second-year phd student in cognitive science at <a href="https://psychology.berkeley.edu/">uc berkeley</a>, where i work with <a href="http://kiddlab.com">celeste kidd</a>.</p>
         <p>
         <p>previously, i worked with <a href="https://www.tsinghuakidlab.com/en/">stella christie</a> and dan grodner at swarthmore college.</p>
         <p>
-        <p><a href="https://scholar.google.com/citations?user=vYsj5zMAAAAJ&hl=en">google scholar</a><small>   x   </small><a href="mailto:orticio@berkeley.edu">email</a></p>
+        <p>&gt; <a href="https://scholar.google.com/citations?user=vYsj5zMAAAAJ&hl=en">google scholar</a></p>
+        <p>&gt; <a href="mailto:orticio@berkeley.edu">email</a></p>
       </header>
       <section>
       <p>
