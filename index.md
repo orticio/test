@@ -1,7 +1,7 @@
 
 
 ### research interests
-I study belief formation across development. In particular, i'm interested in how our belief formation mechanisms interface with the modern informational ecosystem (i.e. in online environments) in ways that may leave us vulnerable to misinformed beliefs.
+I study belief formation across development. In particular, I'm interested in how our belief formation mechanisms interface with modern informational environments in ways that may leave us vulnerable to misinformation.
 
 Ongoing work is investigating how children's skepticism is calibrated to the informational quality of their environment.
 
