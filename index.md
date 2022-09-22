@@ -3,7 +3,7 @@
 ### research interests
 I study belief formation across development. In particular, I'm interested in how our belief formation mechanisms interface with modern informational environments in ways that may leave us vulnerable to misinformation.
 
-Ongoing work is investigating how children's skepticism is calibrated to the informational quality of their environment.
+Ongoing work is investigating how children calibrate their level of skepticism to the informational quality of their environment.
 
 
 ### output
