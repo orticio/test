@@ -1,5 +1,3 @@
-
-
 ### research interests
 I study the cognitive science of belief formation across development. 
 
