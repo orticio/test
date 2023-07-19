@@ -1,9 +1,5 @@
 ### research
-I study the cognitive science of belief formation across development. 
-
-How do learners select relevant data from an effectively infinite space of inputs in order to form beliefs accurately and efficiently? I’m interested in both the internal cues (like curiosity and metacognition) and the external cues (like the affordances of our informational environments) that we use to guide belief formation across the lifespan.
-
-A central aim of my research is to understand how our belief formation mechanisms interface with modern informational environments in ways that may leave us vulnerable to misinformation.
+I study the cognitive science of belief formation across development. A central aim of my research is to understand how our belief formation mechanisms interface with modern informational environments in ways that may leave us vulnerable to misinformation.
 
 ### output
 **Orticio, E.**, Meyer, M., & Kidd, C. (2023). Children adapt their evidentiary standards to their informational environment. Forthcoming in Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/Orticio_Meyer_Kidd_2023_CogSci.pdf)]
