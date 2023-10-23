@@ -1,7 +1,7 @@
-### research
+## research
 I study how people form beliefs and why they’re sometimes wrong. My research focuses on how children and adults use social and contextual information to guide learning, and how these information sources may be distorted by modern technologies like social media and AI.
 
-### output 
+## output 
 
 **Orticio, E.**, Meyer, M., & Kidd, C. (in revision). Exposure to detectable inaccuracies makes kids more diligent fact-checkers of novel claims.
 
