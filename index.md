@@ -3,7 +3,7 @@ I study how people form beliefs and why they’re sometimes wrong. My research f
 
 ## output 
 
-**Orticio, E.**, Meyer, M., & Kidd, C. (in revision). Exposure to detectable inaccuracies makes kids more diligent fact-checkers of novel claims.
+**Orticio, E.**, Meyer, M., & Kidd, C. (submitted). Exposure to detectable inaccuracies makes kids more diligent fact-checkers of novel claims.
 
 **Orticio, E.**, Martí, L., Bi, B., O'Shaughnessy, D., & Kidd, C. (in revision). Judgments and endorsements of political statements are influenced by speaker identity.
 
