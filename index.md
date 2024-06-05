@@ -3,11 +3,11 @@ I study how people form beliefs and why they’re sometimes wrong. My research f
 
 ## output 
 
-**Orticio, E.** & Kidd, C. (submitted). Shifting your opinion makes you change your factual beliefs without evidence. [[preprint](https://orticio.com/assets/OrticioKidd2024_CogSci.pdf)]
-
-**Orticio, E.**, Meyer, M., & Kidd, C. (under review). Exposure to detectable inaccuracies makes kids more diligent fact-checkers of novel claims. [[preprint](https://orticio.com/assets/OrticioMeyerKidd2023.pdf)]
+**Orticio, E.**, Meyer, M., & Kidd, C. (under review). Exposure to detectable inaccuracies makes kids more diligent fact-checkers of novel claims. [[email](mailto:orticio@berkeley.edu)]
 
 **Orticio, E.**, Martí, L., Bi, B., O'Shaughnessy, D., & Kidd, C. (in revision). Judgments and endorsements of political statements are influenced by speaker identity.
+
+**Orticio, E.** & Kidd, C. (2024). Shifting your opinion makes you change your factual beliefs without evidence. [forthcoming in CogSci proceedings]
 
 **Orticio, E.**, Meyer, M., & Kidd, C. (2023). Children adapt their evidentiary standards to their informational environment. In Proceedings of the Annual Meeting of the Cognitive Science Society. [[pdf](https://orticio.com/assets/Orticio_Meyer_Kidd_2023_CogSci.pdf)]
 
