@@ -3,8 +3,6 @@ People form beliefs in a world where evidence is often indirect, ambiguous, or i
 
 ## output
 
-**Orticio, E.**, Goupil, L., & Kidd, C. (in prep). The case against trait curiosity.
-
 **Orticio, E.**, Meyer, M., & Kidd, C. (2024). Exposure to detectable inaccuracies makes children more diligent fact-checkers of novel claims. [accepted at Nature Human Behaviour]
 
 **Orticio, E.**, Martí, L., Bi, B., O'Shaughnessy, D., & Kidd, C. (in revision). Judgments and endorsements of political statements are influenced by speaker identity.
