@@ -1,7 +1,9 @@
 ## research
-I study how people form beliefs and why they’re sometimes wrong. My research focuses on how children and adults use social and contextual information to guide learning, and how these information sources may be distorted by modern technologies like social media and AI.
+People form beliefs in a world where evidence is often indirect, ambiguous, or inaccessible. I’m interested in how we learn to leverage our social and informational environments to form accurate beliefs in the face of impoverished data. I study the cognitive building blocks that we use to learn from socially mediated information, and how they’re adaptive (or maladaptive) in modern contexts like social media and AI.
 
-## output 
+## output
+
+**Orticio, E.**, Goupil, L., & Kidd, C. (in prep). The case against trait curiosity.
 
 **Orticio, E.**, Meyer, M., & Kidd, C. (2024). Exposure to detectable inaccuracies makes children more diligent fact-checkers of novel claims. [accepted at Nature Human Behaviour]
 
