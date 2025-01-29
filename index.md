@@ -1,5 +1,5 @@
 ## research
-People form beliefs in a world where evidence is often indirect, ambiguous, or inaccessible. I’m interested in how we learn to leverage our social and informational environments to form accurate beliefs in the face of impoverished data. I study the cognitive building blocks that we use to learn from socially mediated information, and how they’re adaptive (or maladaptive) in modern contexts like social media and AI.
+People form beliefs in a world where evidence is often indirect, ambiguous, or inaccessible. I’m interested in how we learn to leverage our social and informational environments to learn efficiently and form accurate beliefs. I study the cognitive building blocks that we use to learn from socially mediated information, and how they’re adaptive (or maladaptive) in modern, digital contexts.
 
 ## output
 
